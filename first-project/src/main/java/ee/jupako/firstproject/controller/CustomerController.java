@@ -12,7 +12,7 @@ public class CustomerController {
     public String save(@RequestBody Customer customer) {
         System.out.println("MQ POLUCHILI Customersa: " + customer.getFirstName());
 
-        return "DOBAVLEN!";
+        return "Udachno DOBAVLEN!";
     }
 
 }
