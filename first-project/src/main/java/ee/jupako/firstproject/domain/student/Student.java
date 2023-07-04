@@ -1,4 +1,4 @@
-package ee.jupako.firstproject.domain.customer;
+package ee.jupako.firstproject.domain.student;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

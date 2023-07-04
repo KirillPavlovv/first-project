@@ -1,6 +1,6 @@
 package ee.jupako.firstproject.controller;
 
-import ee.jupako.firstproject.domain.customer.Student;
+import ee.jupako.firstproject.domain.student.Student;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
