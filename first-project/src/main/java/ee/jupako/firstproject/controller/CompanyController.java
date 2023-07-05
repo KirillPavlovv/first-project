@@ -1,5 +1,4 @@
 package ee.jupako.firstproject.controller;
-
 import ee.jupako.firstproject.domain.company.Company;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
