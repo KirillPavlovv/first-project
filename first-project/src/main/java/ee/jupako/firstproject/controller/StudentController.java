@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/student")
 public class StudentController {
+
     @PostMapping
     public String save(@RequestBody Student student) {
         System.out.println("MQ POLUCHILI Student: " + student.getFirstName());

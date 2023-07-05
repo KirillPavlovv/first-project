@@ -8,6 +8,6 @@ import lombok.Data;
 public class Car {
 
     private String engine;
-    private String Brand;
+    private String brand;
 
 }
